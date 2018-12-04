@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="D:/Java/新建文件夹/SpringCloudLearning-master/sc-f-chapter1/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="D:/Java/新建文件夹/SpringCloudLearning-master/sc-f-chapter1/eureka-server/pom.xml" />
+        <option value="D:/Java/新建文件夹/SpringCloudLearning-master/sc-f-chapter1/pom.xml" />
+        <option value="D:/Java/新建文件夹/SpringCloudLearning-master/sc-f-chapter1/service-hi/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
